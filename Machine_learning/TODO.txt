@@ -1,0 +1,19 @@
+
+
+1) Bayesian optimization with
+     optimizer = speed*val_error
+     Done
+
+2) lear1ning curve
+    --> later
+3) visualizer
+    --> pareto plot
+    --> ifv layers
+    --> batch normalization
+
+4) bayesian optimization for data augmentation
+    --> hist per technique
+
+
+
+6) training on small dataset
